@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,locality,cuisine_type,avg_prep_time_min,restaurant_rating,is_premium
+REST_0001,Restaurant_1,Kurla East,South indian,15,4.7,True
+REST_0002,Restaurant_2,Kurla West,Street foodSea food,25,3.1,True
+REST_0003,Restaurant_3,Mulund West,Korean,28,3.1,True
+REST_0004,Restaurant_4,Kurla West,Fast food,24,4.8,False
+REST_0005,Restaurant_5,kandivali East,Fast food,29,3.8,True
+REST_0006,Restaurant_6,Borivali West,Asian,20,3.8,True
+REST_0007,Restaurant_7,Malad West,Thai,21,4.1,True
+REST_0008,Restaurant_8,Mulund West,American,20,3.3,True
+REST_0009,Restaurant_9,Borivali West,Korean,17,3.8,False
+REST_0010,Restaurant_10,Versova,American,28,3.0,True
+REST_0011,Restaurant_11,Vile Parle West,Asian,21,4.9,True
+REST_0012,Restaurant_12,Mulund West,Fast food,19,3.9,False
+REST_0013,Restaurant_13,Malad East,Korean,19,5.0,True
+REST_0014,Restaurant_14,Ghatkopar East,Beverages,15,3.7,True
+REST_0015,Restaurant_15,Matunga,North indian,17,4.3,True
+REST_0016,Restaurant_16,Bhayandar West,Fast food,25,4.4,False
+REST_0017,Restaurant_17,Andheri West,Desserts,28,4.9,True
+REST_0018,Restaurant_18,Powai,Fast food,16,4.2,False
+REST_0019,Restaurant_19,Goregaon West,Street foodSea food,15,4.3,True
+REST_0020,Restaurant_20,Goregaon West,Chinese,21,4.1,True
+REST_0021,Restaurant_21,kandivali West,Thai,27,3.4,True
+REST_0022,Restaurant_22,Kalyan West,South indian,22,4.5,True
+REST_0023,Restaurant_23,Malad West,Street foodSea food,22,3.5,True
+REST_0024,Restaurant_24,Vile Parle East,Fast food,21,4.6,True
+REST_0025,Restaurant_25,Bhayandar East,Italian,18,4.4,False
+REST_0026,Restaurant_26,Juhu,Korean,25,4.4,False
+REST_0027,Restaurant_27,Bhayandar West,Italian,27,3.8,False
+REST_0028,Restaurant_28,Kalyan West,Chinese,19,4.5,False
+REST_0029,Restaurant_29,CSMT,Tibetan,27,4.0,True
+REST_0030,Restaurant_30,Khar West,Italian,21,3.6,False
+REST_0031,Restaurant_31,Borivali East,American,20,3.8,False
+REST_0032,Restaurant_32,Ghatkopar East,Italian,15,4.4,True
+REST_0033,Restaurant_33,Matunga,Japanese,16,3.6,True
+REST_0034,Restaurant_34,Goregaon East,Mughlai,16,3.8,True
+REST_0035,Restaurant_35,Juhu,Italian,25,3.6,True
+REST_0036,Restaurant_36,Kurla East,Street foodSea food,20,3.2,False
+REST_0037,Restaurant_37,Ghatkopar West,Italian,25,4.2,True
+REST_0038,Restaurant_38,Dadar East,Mughlai,22,3.3,False
+REST_0039,Restaurant_39,Jogeshwari,Desserts,19,3.9,True
+REST_0040,Restaurant_40,Versova,North indian,22,3.1,True
+REST_0041,Restaurant_41,Matunga,Korean,15,3.7,False
+REST_0042,Restaurant_42,Dadar West,Street foodSea food,22,4.0,False
+REST_0043,Restaurant_43,kandivali West,Asian,28,4.3,False
+REST_0044,Restaurant_44,kandivali West,Continental,23,3.0,True
+REST_0045,Restaurant_45,Matunga,Lebanese,26,3.2,True
+REST_0046,Restaurant_46,Bandra West,Fast food,16,4.8,True
+REST_0047,Restaurant_47,Andheri West,Continental,16,4.3,True
+REST_0048,Restaurant_48,Mulund West,North indian,21,3.9,True
+REST_0049,Restaurant_49,Malad East,Chinese,20,4.8,True
+REST_0050,Restaurant_50,Jogeshwari,South indian,15,3.7,True
+REST_0051,Restaurant_51,Marine lines,Italian,15,3.5,False
+REST_0052,Restaurant_52,Lower Parel,Korean,26,4.6,True
+REST_0053,Restaurant_53,Ghatkopar West,Thai,16,3.6,True
+REST_0054,Restaurant_54,Malad East,Chinese,27,4.2,True
+REST_0055,Restaurant_55,Lower Parel,Japanese,19,3.9,True
+REST_0056,Restaurant_56,Kalyan West,Lebanese,23,3.2,True
+REST_0057,Restaurant_57,kandivali West,Tibetan,21,4.4,False
+REST_0058,Restaurant_58,Bandra East,Fast food,24,4.0,True
+REST_0059,Restaurant_59,Kalyan West,Fast food,18,4.2,True
+REST_0060,Restaurant_60,Jogeshwari,South indian,22,3.8,True
+REST_0061,Restaurant_61,Ghatkopar West,South indian,23,4.2,False
+REST_0062,Restaurant_62,Marine lines,Mughlai,18,4.3,True
+REST_0063,Restaurant_63,Juhu,Japanese,23,3.6,True
+REST_0064,Restaurant_64,Worli,Continental,24,4.9,True
+REST_0065,Restaurant_65,Ghatkopar West,Asian,29,3.3,True
+REST_0066,Restaurant_66,Jogeshwari,American,18,4.4,False
+REST_0067,Restaurant_67,Malad West,American,19,4.1,True
+REST_0068,Restaurant_68,Marine lines,North indian,16,4.8,False
+REST_0069,Restaurant_69,Jogeshwari,Lebanese,27,4.9,False
+REST_0070,Restaurant_70,Andheri East,Fast food,24,4.5,False
+REST_0071,Restaurant_71,Dadar West,Lebanese,27,3.6,False
+REST_0072,Restaurant_72,Mulund West,Italian,22,4.3,True
+REST_0073,Restaurant_73,Bhayandar West,Mughlai,29,3.5,True
+REST_0074,Restaurant_74,Andheri West,Continental,23,3.3,True
+REST_0075,Restaurant_75,Dadar West,Tibetan,25,3.4,False
+REST_0076,Restaurant_76,Dadar West,Continental,27,3.0,True
+REST_0077,Restaurant_77,Bandra East,Thai,18,4.0,False
+REST_0078,Restaurant_78,Vile Parle West,American,26,3.7,False
+REST_0079,Restaurant_79,Andheri East,Fast food,26,4.5,False
+REST_0080,Restaurant_80,Lower Parel,Chinese,18,4.0,True
+REST_0081,Restaurant_81,Matunga,South indian,20,3.8,True
+REST_0082,Restaurant_82,Goregaon East,North indian,21,4.2,True
+REST_0083,Restaurant_83,Colaba,Continental,21,3.2,True
+REST_0084,Restaurant_84,Ghatkopar East,Fast food,27,3.6,True
+REST_0085,Restaurant_85,Mulund West,Lebanese,17,4.8,False
+REST_0086,Restaurant_86,Worli,Italian,29,4.4,False
+REST_0087,Restaurant_87,Khar West,Italian,16,3.7,False
+REST_0088,Restaurant_88,Bandra East,American,21,3.3,True
+REST_0089,Restaurant_89,Bandra West,Mughlai,16,4.9,False
+REST_0090,Restaurant_90,Vile Parle West,Thai,24,4.2,False
+REST_0091,Restaurant_91,Vile Parle West,Lebanese,24,4.5,False
+REST_0092,Restaurant_92,Dadar West,Fast food,17,3.6,False
+REST_0093,Restaurant_93,Borivali West,Street foodSea food,16,3.4,False
+REST_0094,Restaurant_94,Kalyan West,Chinese,18,4.5,True
+REST_0095,Restaurant_95,Bhayandar West,American,17,3.8,True
+REST_0096,Restaurant_96,CSMT,Beverages,26,3.5,True
+REST_0097,Restaurant_97,Worli,Beverages,29,4.8,False
+REST_0098,Restaurant_98,Vikhroli,Asian,22,4.7,True
+REST_0099,Restaurant_99,Ghatkopar East,Mughlai,29,4.5,True
+REST_0100,Restaurant_100,Andheri West,Continental,21,4.5,True
+REST_0101,Restaurant_101,Goregaon West,Street foodSea food,28,3.4,True
+REST_0102,Restaurant_102,Mulund West,Mughlai,20,4.3,True
+REST_0103,Restaurant_103,Malad West,Street foodSea food,28,3.7,True
+REST_0104,Restaurant_104,Malad East,Thai,23,4.8,False
+REST_0105,Restaurant_105,Juhu,Japanese,20,3.2,True
+REST_0106,Restaurant_106,Bhayandar West,Chinese,22,3.2,False
+REST_0107,Restaurant_107,Goregaon West,Desserts,18,4.0,True
+REST_0108,Restaurant_108,Ghatkopar East,Beverages,15,3.6,False
+REST_0109,Restaurant_109,Malad East,Korean,27,4.7,False
+REST_0110,Restaurant_110,Versova,Fast food,24,4.5,True
+REST_0111,Restaurant_111,kandivali West,North indian,23,4.8,True
+REST_0112,Restaurant_112,Bandra East,Beverages,16,4.9,True
+REST_0113,Restaurant_113,Marine lines,Asian,27,3.7,True
+REST_0114,Restaurant_114,Ghatkopar West,Chinese,21,4.0,True
+REST_0115,Restaurant_115,Jogeshwari,Thai,22,3.5,True
+REST_0116,Restaurant_116,Ghatkopar East,Thai,29,3.2,False
+REST_0117,Restaurant_117,Ghatkopar East,Italian,16,3.1,True
+REST_0118,Restaurant_118,Worli,Asian,25,4.7,True
+REST_0119,Restaurant_119,Bandra West,Chinese,28,3.9,False
+REST_0120,Restaurant_120,CSMT,Chinese,19,4.4,True
+REST_0121,Restaurant_121,Khar West,Chinese,21,4.5,False
+REST_0122,Restaurant_122,Vile Parle East,North indian,22,4.7,True
+REST_0123,Restaurant_123,Malad East,Beverages,20,4.7,True
+REST_0124,Restaurant_124,Marine lines,Lebanese,23,5.0,True
+REST_0125,Restaurant_125,Khar West,Beverages,27,4.5,True
+REST_0126,Restaurant_126,Malad West,American,22,4.3,True
+REST_0127,Restaurant_127,Borivali West,Fast food,17,4.7,False
+REST_0128,Restaurant_128,Colaba,Tibetan,20,3.6,False
+REST_0129,Restaurant_129,CSMT,American,21,4.4,False
+REST_0130,Restaurant_130,Powai,Thai,25,3.4,False
+REST_0131,Restaurant_131,kandivali East,Continental,21,3.8,True
+REST_0132,Restaurant_132,Dadar East,Street foodSea food,23,4.6,True
+REST_0133,Restaurant_133,Kurla East,Korean,24,4.1,False
+REST_0134,Restaurant_134,Borivali East,Japanese,16,3.8,False
+REST_0135,Restaurant_135,Bandra West,Desserts,19,4.0,False
+REST_0136,Restaurant_136,Ghatkopar West,Desserts,29,4.0,False
+REST_0137,Restaurant_137,Dadar East,North indian,19,5.0,True
+REST_0138,Restaurant_138,Kurla East,Continental,17,4.4,False
+REST_0139,Restaurant_139,Bhayandar West,Korean,28,3.8,False
+REST_0140,Restaurant_140,Dadar West,Lebanese,28,4.3,False
+REST_0141,Restaurant_141,Marine lines,Mughlai,27,4.8,False
+REST_0142,Restaurant_142,Colaba,Japanese,29,4.8,True
+REST_0143,Restaurant_143,Mulund West,Japanese,22,3.3,True
+REST_0144,Restaurant_144,Santacruz,Street foodSea food,16,3.8,False
+REST_0145,Restaurant_145,Ghatkopar East,South indian,28,3.7,False
+REST_0146,Restaurant_146,Khar West,American,29,4.9,True
+REST_0147,Restaurant_147,Ghatkopar East,Korean,29,4.7,True
+REST_0148,Restaurant_148,Bhayandar East,Thai,21,3.5,True
+REST_0149,Restaurant_149,Vile Parle West,Japanese,17,4.3,False
+REST_0150,Restaurant_150,Ghatkopar West,North indian,27,3.6,False
